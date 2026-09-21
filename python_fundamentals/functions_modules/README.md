@@ -19,4 +19,5 @@ The following files are included in this project:
 | File | Description |
 | ---- | ----------- |
 |[islower.py](islower.py) | Function must return True if c is lowercase otherwise False |
-|        |           |
+|[uppercase.py](uppercase.py) | Function must print string in uppercase followed by newline. |
+|[]() |               |
