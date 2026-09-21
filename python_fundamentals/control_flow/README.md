@@ -12,11 +12,12 @@
 
 ## Project File Table 📁
 The following files are included in this project:
+- all pycodestyle compliant
 
 | File | Description |
 | ---- | ----------- |
 |[positive\_or\_negative.py](positive\_or\_negative.py) | Script - assigns random integer to a variable names number. |
 |[last\_digit.py](last_digit.py) |assign random interger assigned to number.|
-|      |             |
+|[print\_alphabt.py](print_alphabt.py) | Print lowercase alphabet except for q/e. |
 |      |             |
 |      |             |
