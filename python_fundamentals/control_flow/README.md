@@ -21,5 +21,5 @@ The following files are included in this project:
 |[print\_alphabt.py](print_alphabt.py) | Print lowercase alphabet except for q/e. |
 |[print\_hexa.py](print_hexa.py) | Print numbers 0-98 in decimal/hexadecimal.|
 |[print\_comb2.py](print_comb2.py) | Print numbers 0-99 formatted as two-digit numbers seperated by comma and space. |
-|       |            |
+|[print\_comb3.py](print_comb3.py) | Print all unique combinations of two different digits from 0-9. |
 |        |           |
