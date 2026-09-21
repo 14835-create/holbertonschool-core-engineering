@@ -20,5 +20,6 @@ The following files are included in this project:
 |[last\_digit.py](last_digit.py) |assign random interger assigned to number.|
 |[print\_alphabt.py](print_alphabt.py) | Print lowercase alphabet except for q/e. |
 |[print\_hexa.py](print_hexa.py) | Print numbers 0-98 in decimal/hexadecimal.|
-|      |             |
+|[print\_comb2.py](print_comb2.py) | Print numbers 0-99 formatted as two-digit numbers seperated by comma and space. |
 |       |            |
+|        |           |
