@@ -23,4 +23,5 @@ The following files are included in this project:
 |[print\_last\_digit.py](print_last_digit.py) | Function print last number, return value of last digit |
 |[pow.py](pow.py)| Function return value of a raised to power of b |
 |[add.py](add.py) | Imports function add() from file add\_0.py, prints result of addition 1 + 2 = 3 |
-|[]()          |            |
+|[calculation.py](calculation.py) | Imports functions from calculator\_1.py prints result of add, sub, mul, div |
+| []() |            |
