@@ -1,14 +1,11 @@
 #!/usr/bin/env python3
 def pow(a, b):
     result = 1
+    power = abs(b)
 
-    if b >= 0:
-        for i in range(b):
-            result *= a
+    for i in range(power):
+        result *= a
 
-        else:
-            for i in range(-b):
-                result *= a
-            result = 1 / result
-
-        return result
+    if b < 0:
+        return 1 / result
+    return result
