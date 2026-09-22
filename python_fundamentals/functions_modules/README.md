@@ -20,4 +20,5 @@ The following files are included in this project:
 | ---- | ----------- |
 |[islower.py](islower.py) | Function must return True if c is lowercase otherwise False |
 |[uppercase.py](uppercase.py) | Function must print string in uppercase followed by newline. |
-|[]() |               |
+|[print\_last\_digit.py](print_last_digit.py) | Function print last number, return value of last digit |
+| []() |   |
