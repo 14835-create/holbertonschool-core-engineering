@@ -24,3 +24,4 @@ The following files are included in this project:
 |[add\_tuple.py](add_tuple.py) | Function that adss two tuples |
 |[common\_elements.py](common_elements.py) | Function returns a set of common elements in two sets |
 |[update\_dictionary.py](update_dictionary.py) | Function that replaces or adds a key/value pair in a dictionary |
+|[best\_score.py](best_score.py) | Function that returns the key with the biggest integer value |
