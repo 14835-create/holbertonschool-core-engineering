@@ -19,4 +19,6 @@ The following files are included in this project:
 | ---- | ----------- |
 |[print\_list\_integer.py](print_list_integer.py) | Function that prints all integers of a list |
 |[element\_at.py](element_at.py) | Function that retrieves an element from a list like in C |
-|[]() | |
+|[replace\_in\_list.py](replace_in_list.py) | Function that replaces element of a list at a specific positiion |
+| []() |            |
+| []() |            |
