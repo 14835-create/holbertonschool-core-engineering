@@ -27,4 +27,4 @@ The following files are included in this project:
 |[5-square.py](5-square.py) | Prints in stdout the square with the character # |
 |[6-square.py](6-square.py) | Add and implement special method: __str__() |
 |[1-rectangle.py](1-rectangle.py) | Define a class rectangle |
-|[]() | |
+|[2-rectangle.py](2-rectangle.py) | Add insstance menthos to the rectangle class |
