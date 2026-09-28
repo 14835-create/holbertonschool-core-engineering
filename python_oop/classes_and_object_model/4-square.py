@@ -12,7 +12,7 @@ class Square:
         """Gets size of square"""
         return self.__size
 
-    def size(size, value):
+    def size(self, value):
         """Sets size of square  with validation"""
         if not isinstance(value, int):
             raise TypeError("size must be an integer")
