@@ -21,4 +21,5 @@ The following files are included in this project:
 |[safe\_print\_list\_integers.py](safe_print_list_integers.py) | Function prints the first x eelements of a list. |
 |[safe\_print\_division.py](safe_print_division.py) |Function that divides two integers. |
 |[raise\_exception.py](raise_exception.py) | Function that raises a TypeError. |
+|[raise\_exception\_msg.py](raise_exception_msg.py) | Function that raises a NameError with a custom message. |
 |[]() | |
