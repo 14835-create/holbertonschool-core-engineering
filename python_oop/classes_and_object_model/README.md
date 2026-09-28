@@ -23,4 +23,5 @@ The following files are included in this project:
 |[1-square.py](1-square.py) | Introduce instance attributes |
 |[2-square.py](2-square.py) | Validations to size attributes on the square class |
 |[3-square.py](3-square.py)| Add instance method area(self) to square class that returns the area of the square based on it's side length |
-| []() | |
+|[4-square.py](4-square.py) | Add getters/setters for the size attribute |
+|[]() | |
