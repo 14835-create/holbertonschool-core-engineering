@@ -21,4 +21,5 @@ The following files are included in this project:
 | ---- | ----------- |
 |[0-square.py](0-square.py) | Create first python class. |
 |[1-square.py](1-square.py) | Introduce instance attributes |
-|[]() | |
+|[2-square.py](2-square.py) | Validations to size attributes on the square class |
+|[]()| |
