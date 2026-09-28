@@ -25,4 +25,5 @@ The following files are included in this project:
 |[3-square.py](3-square.py)| Add instance method area(self) to square class that returns the area of the square based on it's side length |
 |[4-square.py](4-square.py) | Add getters/setters for the size attribute |
 |[5-square.py](5-square.py) | Prints in stdout the square with the character # |
+|[6-square.py](6-square.py) | Add and implement special method: __str__() |
 |[]() | |
