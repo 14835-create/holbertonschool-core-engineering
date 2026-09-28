@@ -12,12 +12,12 @@ class Square:
         """Gets size of square"""
         return self.__size
 
-    def set_size(size, value):
+    def size(size, value):
         """Sets size of square  with validation"""
         if not isinstance(value, int):
             raise TypeError("size must be an integer")
         if value < 0:
-            raise ValueError("size muct be >= 0")
+            raise ValueError("size must be >= 0")
         self.__size = value
 
     def area(self):
