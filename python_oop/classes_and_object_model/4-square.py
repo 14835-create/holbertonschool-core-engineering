@@ -6,7 +6,7 @@ class Square:
     """Reps a square"""
 
     def __init__(self, size=0):
-        self.set_size(size)
+        self.size = size
 
     def size(self):
         """Gets size of square"""
