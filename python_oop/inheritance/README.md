@@ -20,4 +20,5 @@ The following files are included in this project:
 | ---- | ----------- |
 |[base\_geometry.py](base_geometry.py) | Create class name BaseGeometry. Methods: area(self) |
 |[1-rectangle.py](1-rectangle.py) | Create class Rectangle that inherits BaseGeometry. Class must represent a rectangle defines by its width/height |
+|[2-rectangle.py](2-rectangle.py) | Extend rectangle class. Implement: area() |
 |[]() | |
