@@ -22,4 +22,4 @@ The following files are included in this project:
 |[shapes.py](shapes.py) | Create an abstract class Shape with 2 abstract methods area/permimeter |
 |[flyingfish.py](flyingfish.py) |Construct flyingfish class that inherits fish/Bird class |
 |[dragon.py](dragon.py) | Design 2 mixin classes, SwimMixin/FlyMixin, each equipped methods swim/fly |
-|[]() | |
+|[verboselist.py](verboselist.py) | Create class names VerboseList, inherits from the built-in list class |
