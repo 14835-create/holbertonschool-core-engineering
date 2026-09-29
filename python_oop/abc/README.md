@@ -20,4 +20,5 @@ The following files are included in this project:
 | ---- | ----------- |
 |[animals.py](animals.py) |Create an abstract class (ABCs) names Animal with method sound |
 |[shapes.py](shapes.py) | Create an abstract class Shape with 2 abstract methods area/permimeter |
+|[flyingfish.py](flyingfish.py) |Construct flyingfish class that inherits fish/Bird class |
 |[]() | |
