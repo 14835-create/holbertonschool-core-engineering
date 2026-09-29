@@ -22,4 +22,5 @@ The following files are included in this project:
 |[1-rectangle.py](1-rectangle.py) | Create class Rectangle that inherits BaseGeometry. Class must represent a rectangle defines by its width/height |
 |[2-rectangle.py](2-rectangle.py) | Extend rectangle class. Implement: area() |
 |[1-square.py](1-square.py) | Create class Square that inherits from Rectangle |
-| []() | |
+|[2-square.py](2-square.py) | Extend the square class. print(), str(), return square description(width/height) |
+|[]() | |
