@@ -19,4 +19,5 @@ The following files are included in this project:
 | File | Description |
 | ---- | ----------- |
 |[animals.py](animals.py) |Create an abstract class (ABCs) names Animal with method sound |
+|[shapes.py](shapes.py) | Create an abstract class Shape with 2 abstract methods area/permimeter |
 |[]() | |
