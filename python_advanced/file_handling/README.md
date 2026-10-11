@@ -19,4 +19,5 @@ The following files are included in this project:
 | ---- | ----------- |
 |[read\_file.py](read_file.py) |Function that reads a text file (UTF8) and print to stdout |
 | [write\_file.py](write_file.py) | Function writes string to text file (UTF-8) and returns number of chars |
+|[append\_write.py](append_write.py) | Function appends a string at the end of txt file (UTF-8) and returns number of characters added |
 
