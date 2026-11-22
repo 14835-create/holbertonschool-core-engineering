@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Simple websocket echo server."""
 import asyncio
 import websockets
