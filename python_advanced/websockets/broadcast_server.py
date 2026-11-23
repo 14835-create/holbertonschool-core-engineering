@@ -15,8 +15,8 @@ async def connection_handler(websocket):
                     connected_clients,
                     f"B:{message}"
             )
-        finally:
-            connected_clients.discard(websocket)
+    finally:
+        connected_clients.discard(websocket)
 
 
 async def main():
